@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+frontend/node_modules/
+frontend/dist/
+faiss.index
+texts.json
+__pycache__/
+*.pyc
+*.log
